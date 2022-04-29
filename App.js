@@ -344,3 +344,5 @@ function isLast(ts) {
   return newts;
 }
 log(`Задача 41: ${isLast("var_text_hello")}`);
+
+//Задача 42
